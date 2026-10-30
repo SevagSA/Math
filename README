@@ -1,1 +1,3 @@
 Math for fun. Just some good ol' pen, paper and the Internet.
+<hr/>
+`cd problems` then run `for d in problem_*/; do ln -sf ../Makefile "${d}Makefile"; done`.
